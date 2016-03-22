@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationReadingApp</string>
+
+    <string name="app_jpnname">Line読み上げさん</string>
+</resources>
